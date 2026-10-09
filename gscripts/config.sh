@@ -45,7 +45,10 @@ readonly TARGETS=(
 )
 
 readonly VARIANTS=(
+    ksu-susfs
+    ksu-susfs-vpnhide
     ksu-next-susfs
+    ksu-next-susfs-vpnhide
 )
 
 ###############################################################################
