@@ -41,16 +41,11 @@ readonly DIST_DIR="${REPO_ROOT}/dist"
 ###############################################################################
 
 readonly TARGETS=(
-    gs201
-    zuma
     zumapro
 )
 
 readonly VARIANTS=(
-    ksu-susfs
-    ksu-susfs-vpnhide
     ksu-next-susfs
-    ksu-next-susfs-vpnhide
 )
 
 ###############################################################################
